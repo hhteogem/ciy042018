@@ -1,0 +1,22 @@
+em {
+    color: red
+}
+
+h1 {
+    color: yellow
+}
+
+.classA {
+    color: rgb(90, 128, 0)
+}
+
+.a {
+    color: springgreen
+}
+
+.b {
+    font-size: 30px
+}
+
+.c {font-family: monospace
+}
