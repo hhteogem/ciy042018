@@ -20,3 +20,20 @@ h1 {
 
 .c {font-family: monospace
 }
+
+.ciystyle {
+    font-family: fantasy;
+    font-size: 80px;
+    color: mediumvioletred
+}
+
+.spansample {
+    background-color: mediumslateblue;
+    font-family: Helvetica;
+    
+}
+
+.divsample {
+    background-color: navy;
+
+}
